@@ -1,21 +1,31 @@
 html{
-    background:url(https://i.picsum.photos/id/1080/400/200.jpg)
+    background-image: url("https://printablegraphics.in/wp-content/uploads/2018/02/Nature-Best-background-images-hd.jpg");
+    background-repeat: repeat;
+    display:flex;
+    place-items:center;
+    justify-content:center;
+    height: 900px;
+    }
 h1{
-    color:rgb(243, 51, 115);
+    color: rgb(49, 3, 109);
 }
 img{
-    float: center
-    width: 400px;  
-
+      width: 400px;
+      height: 280px;
+      margin-left: auto;
+      margin-right: auto;
+      margin-top: auto;
+      margin-bottom: auto;
 }
 #thirdDiv{
-    border:20px rgb(87, 240, 26) dashed;
+    border:10px rgb(87, 240, 26) dashed;
     height: 600px;
     padding:50px;
     width: 500px;
     background-color: rgb(178, 142, 226);
-}
+    }
 #spanId{
     font-size: 18px;
     margin: 50px auto;
+
 }
