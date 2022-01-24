@@ -1,0 +1,24 @@
+html{
+    background-color: rgb(128, 3, 121);
+    display:flex;
+    place-items:center;
+    justify-content:center;
+    height: 400px;
+    margin-top: 400px;
+    margin-left: 100px;
+    margin-right: 200px;
+    }
+h1{
+    color: rgb(255, 255, 255);
+    display:flex;
+    place-items:center;
+    justify-content:center;
+    height: 50px;
+}
+h2{
+    color: rgb(230, 153, 245);
+    font-size: 20px;
+}
+img{
+    height: 300px;
+    }
